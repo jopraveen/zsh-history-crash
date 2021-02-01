@@ -1,5 +1,3 @@
 ### steps:
 
-```chmod +x fix && ./fix```
-
-run this command as sudo 
+```sudo chmod +x fix && ./fix```
